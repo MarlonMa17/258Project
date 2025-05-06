@@ -1,0 +1,9 @@
+
+train: C:\Users\admin\Downloads\258project\content\UA-DETRAC\DETRAC_Upload\images/train
+val: C:\Users\admin\Downloads\258project\content\UA-DETRAC\DETRAC_Upload\images/val
+nc: 4
+names:
+  0: "bus"
+  1: "car"
+  2: "van"
+  3: "truck"
