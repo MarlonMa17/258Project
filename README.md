@@ -12,7 +12,7 @@ This project implements a vehicle detection and classification system using YOLO
 ├── content/               # Dataset (excluded from GitHub)
 ├── runs/                  # YOLOv5 outputs: training, validation, inference
 ├── videotraffic/          # Input traffic videos for inference (excluded from GitHub)
-├── runs/detrac.yaml       # Dataset YAML configuration (excluded from GitHub)
+├── runs/detrac.yaml       # Dataset YAML configuration
 ├── smartcity.ipynb        # Main notebook for training & inference
 └── README.md
 ```
@@ -68,6 +68,16 @@ smartcity.ipynb
 ```
 
 Results will be saved to: `yolov5/runs/inference/`
+
+---
+
+
+
+##  Output/Result in runs/Directory
+
+- `runs/train/exp*`: Contains training outputs like `best.pt`, loss curves, and sample images.
+- `runs/val/exp*`: Stores evaluation results such as mAP curves and confusion matrices.
+- `runs/inference/`: Contains annotated traffic videos generated from inference using the trained model.
 
 ---
 
