@@ -1,2 +1,4 @@
 # 忽略 content 文件夹及其所有内容
 content/
+
+*.pt
