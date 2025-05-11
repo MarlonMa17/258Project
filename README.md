@@ -6,7 +6,7 @@ Identified the fundamental issue for intelligent traffic control and explained t
 - Honghao Ma  
 Pipeline Engineering & Evaluation: Led the complete data preprocessing workflow, including frame extraction, annotation conversion, and dataset splitting tailored for optimized model input. Carried out localized training and validation across multiple object detection architectures (e.g., YOLOv5n, YOLOv5m), iteratively tuning hyperparameters for performance benchmarking under constrained resources.
 Integration & Deployment: Implemented the end-to-end inference pipeline for video processing, integrating frame-wise detection with visual annotation overlay and result output for performance analysis. Developed scripts enabling efficient model evaluation on test video sequences with support for batch visualization.
-Project Infrastructure: Set up and maintained the GitHub repository, ensuring reproducibility through organized codebase structure and detailed README documentation. Authored significant portions of the final project report and presentation slides, particularly focusing on experimental evaluation metrics, visual result comparisons, and model performance discussion across different detection settings.
+Project Infrastructure: Set up and maintained the GitHub repository, ensuring reproducibility through organized codebase structure and detailed README documentation. Authored significant portions of the final project report and presentation slides, particularly focusing on experimental evaluation metrics, visual result comparisons, and model performance discussion across different detection settings.  
 https://github.com/MarlonMa17/258Project
 
 - Itzel Xu  
@@ -18,7 +18,8 @@ Collaborated with team members contributing to clear project documentation and p
 
 ---
 
-# Smart City Vehicle Detection with YOLOv5
+# Smart Traffic Management
+
 
 This project implements a vehicle detection and classification system using YOLOv5, trained on the [UA-DETRAC](https://www.kaggle.com/datasets/dtrnngc/ua-detrac-dataset) dataset. The goal is to enable accurate recognition of vehicles (bus, car, van, truck) in traffic videos for smart city applications.
 
