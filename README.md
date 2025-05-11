@@ -1,15 +1,15 @@
 ##  Task distribution among group members
 
-- Jinwoo Bae
+- Jinwoo Bae  
 Identified the fundamental issue for intelligent traffic control and explained the real-world application setting. chosen and examined the UA-DETRAC dataset, paying particular attention to its environmental conditions, labeled classifications, and structure. assessed the dataset's suitability for object detection model training and testing by looking at important features such vehicle types, occlusion levels, truncation, lighting conditions, and object scales. summarized the results of the dataset interpretation and provided assistance for the evaluation discussion in the project report.
 
-- Honghao Ma
+- Honghao Ma  
 Pipeline Engineering & Evaluation: Led the complete data preprocessing workflow, including frame extraction, annotation conversion, and dataset splitting tailored for optimized model input. Carried out localized training and validation across multiple object detection architectures (e.g., YOLOv5n, YOLOv5m), iteratively tuning hyperparameters for performance benchmarking under constrained resources.
 Integration & Deployment: Implemented the end-to-end inference pipeline for video processing, integrating frame-wise detection with visual annotation overlay and result output for performance analysis. Developed scripts enabling efficient model evaluation on test video sequences with support for batch visualization.
 Project Infrastructure: Set up and maintained the GitHub repository, ensuring reproducibility through organized codebase structure and detailed README documentation. Authored significant portions of the final project report and presentation slides, particularly focusing on experimental evaluation metrics, visual result comparisons, and model performance discussion across different detection settings.
 https://github.com/MarlonMa17/258Project
 
-- Itzel Xu
+- Itzel Xu  
 Literature & Model Research:Conducted an in-depth review of key object detection papers. Researched model architecture details and compared various YOLO versions and their practical implications in constrained edge deployment scenarios.
 Dataset Evaluation: Validated the UA-DETRAC dataset, ensuring proper label mapping and quality checks for robust traffic detection.
 Deployment & Debugging: Resolved configuration issues in both training and inference pipelines (e.g., module imports, device configuration, input tensor shape conversion, normalization, and augmentation) within the Kaggle environment.
