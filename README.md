@@ -6,7 +6,7 @@ Identified the fundamental issue for intelligent traffic control and explained t
 - Honghao Ma  
 Pipeline Engineering & Evaluation: Led the complete data preprocessing workflow, including frame extraction, annotation conversion, and dataset splitting tailored for optimized model input. Carried out localized training and validation across multiple object detection architectures (e.g., YOLOv5n, YOLOv5m), iteratively tuning hyperparameters for performance benchmarking under constrained resources.
 Integration & Deployment: Implemented the end-to-end inference pipeline for video processing, integrating frame-wise detection with visual annotation overlay and result output for performance analysis. Developed scripts enabling efficient model evaluation on test video sequences with support for batch visualization.
-Project Infrastructure: Set up and maintained the GitHub repository, ensuring reproducibility through organized codebase structure and detailed README documentation. Authored significant portions of the final project report and presentation slides, particularly focusing on experimental evaluation metrics, visual result comparisons, and model performance discussion across different detection settings.  
+Project Infrastructure: Set up and maintained the GitHub repository, ensuring reproducibility through organized codebase structure and detailed README documentation. Authored significant portions of the final project report and presentation slides, particularly focusing on experimental evaluation metrics, visual result comparisons, and model performance discussion across different detection settings. Google drive file management and uploading. Management and reminders of job requests and project processes.  
 https://github.com/MarlonMa17/258Project
 
 - Itzel Xu  
@@ -26,6 +26,9 @@ This project implements a vehicle detection and classification system using YOLO
 ---
 
 ## Project Structure
+
+Complete Code:  
+https://drive.google.com/drive/folders/1hRLJr01uIy-MmHlezAWhd7qRyW-30eUf?usp=sharing
 
 ```
 258project/
